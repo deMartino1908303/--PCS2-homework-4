@@ -5,6 +5,6 @@ fertility = int(info[1])
 family = [1, 0]
 for __ in range(month):
   tmp = family[0]
-  family[0] = family[1]*ferility
+  family[0] = family[1]*fertility
   family[1] += tmp
 print(family[0])
