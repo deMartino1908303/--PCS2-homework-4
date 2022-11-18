@@ -1,10 +1,10 @@
 # --PCS2-homework-4
 
-Rabbits and Recurrence Relations -->fib  //done
+Rabbits and Recurrence Relations -->fib  \\ done
 
-Counting Point Mutations -->hamm        //done
+Counting Point Mutations -->hamm         \\ done
 
-Mortal Fibonacci Rabbits -->fibd
+Mortal Fibonacci Rabbits -->fibd         \\ done
 
 Inferring mRNA from Protein -->mrna
 
