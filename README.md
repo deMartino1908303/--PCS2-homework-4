@@ -8,7 +8,7 @@ Mortal Fibonacci Rabbits -->fibd         \\ done
 
 Inferring mRNA from Protein -->mrna      \\ done
 
-Calculating Protein Mass -->prtm
+Calculating Protein Mass -->prtm         \\ done
 
 Finding a Shared Motif -->lcsm
 
