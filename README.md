@@ -1,21 +1,21 @@
 # --PCS2-homework-4
 
-Rabbits and Recurrence Relations -->fib  \\ done
+Rabbits and Recurrence Relations -->fib       \\ done
 
-Counting Point Mutations -->hamm         \\ done
+Counting Point Mutations -->hamm              \\ done
 
-Mortal Fibonacci Rabbits -->fibd         \\ done
+Mortal Fibonacci Rabbits -->fibd              \\ done
 
-Inferring mRNA from Protein -->mrna      \\ done
+Inferring mRNA from Protein -->mrna           \\ done
 
-Calculating Protein Mass -->prtm         \\ done
+Calculating Protein Mass -->prtm              \\ done
 
 Finding a Shared Motif -->lcsm
 
-Enumerating Gene Orders -->perm          \\ done
+Enumerating Gene Orders -->perm               \\ done
 
 Locating Restriction Sites -->revp
 
-Enumerating k-mers Lexicographically -->lexf
+Enumerating k-mers Lexicographically -->lexf  \\ done
 
 Longest Increasing Subsequence -->lgis
