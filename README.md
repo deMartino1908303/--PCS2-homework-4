@@ -12,7 +12,7 @@ Calculating Protein Mass -->prtm         \\ done
 
 Finding a Shared Motif -->lcsm
 
-Enumerating Gene Orders -->perm
+Enumerating Gene Orders -->perm          \\ done
 
 Locating Restriction Sites -->revp
 
