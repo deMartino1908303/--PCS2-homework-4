@@ -6,7 +6,7 @@ Counting Point Mutations -->hamm         \\ done
 
 Mortal Fibonacci Rabbits -->fibd         \\ done
 
-Inferring mRNA from Protein -->mrna
+Inferring mRNA from Protein -->mrna      \\ done
 
 Calculating Protein Mass -->prtm
 
