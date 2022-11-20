@@ -14,7 +14,7 @@ Finding a Shared Motif -->lcsm                \\ done
 
 Enumerating Gene Orders -->perm               \\ done
 
-Locating Restriction Sites -->revp
+Locating Restriction Sites -->revp            \\ done
 
 Enumerating k-mers Lexicographically -->lexf  \\ done
 
