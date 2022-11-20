@@ -10,7 +10,7 @@ Inferring mRNA from Protein -->mrna           \\ done
 
 Calculating Protein Mass -->prtm              \\ done
 
-Finding a Shared Motif -->lcsm
+Finding a Shared Motif -->lcsm                \\ done
 
 Enumerating Gene Orders -->perm               \\ done
 
