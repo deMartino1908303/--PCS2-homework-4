@@ -18,4 +18,4 @@ Locating Restriction Sites -->revp            \\ done
 
 Enumerating k-mers Lexicographically -->lexf  \\ done
 
-Longest Increasing Subsequence -->lgis
+Longest Increasing Subsequence -->lgis        \\ done
